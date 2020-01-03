@@ -1,2 +1,2 @@
 # demo
-for the training demo 
+for the training
